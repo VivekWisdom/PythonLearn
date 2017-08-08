@@ -1,5 +1,5 @@
+#!/usr/bin/python3
 """ This uses generator function to check if a number is prime. """
-#! usr/bin/python
 
 def isPrime(n):
     if n == 1:

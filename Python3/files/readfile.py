@@ -4,4 +4,4 @@
 FH = open('lines.text')
 
 for line in FH.readlines():
-    print(line, end='')
+    print(line)
